@@ -7,7 +7,7 @@ Tecnologia | Redes | Suporte Técnico | Desenvolvimento Web
 
 ## 📫 Contato
 
-- **Email:** crislanaraujo1@gmail.com 
+- **Email:** (crislanaraujo1@gmail.com)
 - **LinkedIn:**(https://www.linkedin.com/in/crislan-de-araujo-dos-santos-97484514a/)
 - **GitHub:** [github.com/Crislan26](https://github.com/Crislan26)
 
