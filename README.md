@@ -7,8 +7,8 @@ Tecnologia | Redes | Suporte Técnico | Desenvolvimento Web
 
 ## 📫 Contato
 
-- **Email:** crislan@email.com *(substitua pelo seu email real)*
-- **LinkedIn:** [linkedin.com/in/crislan](https://linkedin.com/in/crislan) *(coloque seu link real)*
+- **Email:** crislanaraujo1@gmail.com 
+- **LinkedIn:**(https://www.linkedin.com/in/crislan-de-araujo-dos-santos-97484514a/)
 - **GitHub:** [github.com/Crislan26](https://github.com/Crislan26)
 
 ---
@@ -85,15 +85,4 @@ Tecnologia | Redes | Suporte Técnico | Desenvolvimento Web
 - **Espanhol:** Básico
 
 ---
-
-## 🚀 Projetos em Destaque
-
-(Adicione aqui seus repositórios principais com links e descrição curta)
-
-```markdown
-### [controle-de-redes](https://github.com/Crislan26/controle-de-redes)
-Sistema para monitoramento e organização de ativos de rede. Utiliza Python e Flask com interface web simples e objetiva.
-
-### [automacao-helpdesk](https://github.com/Crislan26/automacao-helpdesk)
-Automatização de tarefas de suporte técnico, como registro de chamados e geração de relatórios.
 
